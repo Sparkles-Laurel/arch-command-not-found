@@ -11,6 +11,6 @@ Simple command not found handler for Arch Linux.
 - Restart bash or run the following command to reconfigure bash: `source ~/.bashrc`
 
 ## To-Do list
-[ ] Add support for other shells.
+- Add support for other shells.
 
-[ ] Make it available on the Arch User Repository.
+- Make it available on the Arch User Repository.
