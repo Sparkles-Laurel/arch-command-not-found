@@ -12,4 +12,5 @@ Simple command not found handler for Arch Linux.
 
 ## To-Do list
 [ ] Add support for other shells.
+
 [ ] Make it available on the Arch User Repository.
